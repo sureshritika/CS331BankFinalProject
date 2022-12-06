@@ -1,0 +1,23 @@
+.navbar-brand:hover, .nav-item:hover {
+    font-weight: bold;
+}
+
+.alert-success {
+    background-color: green;
+    color: white;
+}
+
+.alert-warning {
+    background-color: yellow;
+    color: black;
+}
+
+.alert-danger {
+    background-color: red;
+    color: white;
+}
+
+.alert-info {
+    background-color: teal;
+    color: white;
+}
